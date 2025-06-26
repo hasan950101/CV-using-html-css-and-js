@@ -1,21 +1,14 @@
 # CV using HTML, CSS & JavaScript
 
+Live Link: https://hasan950101.github.io/CV-using-html-css-and-js/
+
 A responsive and interactive personal CV (Resume) webpage built with **HTML**, **CSS**, and **JavaScript**. This project includes features like **Dark Mode Toggle**, **PDF Download**, and a **Scroll-to-Top Button**.
 
-![Screenshot](![image](https://github.com/user-attachments/assets/7cba34fc-d09f-4c2b-b713-358587bb7760)
-)
-![Screenshot](![image](https://github.com/user-attachments/assets/93f146bc-7b39-41c3-a232-75559df69318)
+![Screenshot](![image](https://github.com/user-attachments/assets/ef9deede-1688-4ee6-b5ce-90224f7bd557)
 
 )
-
----
-
-## 👤 About
-
-**Md. Jahid Hasan**  
-A passionate CSE student with strong problem-solving skills and interest in Data Science, AI, and software development.
-
----
+![Screenshot](![image](![image](https://github.com/user-attachments/assets/00ab699d-922d-451c-b1bf-8a8cae23b0cc)
+)
 
 ## ✨ Features
 
